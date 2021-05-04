@@ -14,9 +14,9 @@
 
 + Data Cleaning: exclude properties own by the government and fill the missing values
 
-+ Feature Creation: represent data with six features through PCA and normalized the result to prepare for the modeling. 
++ Feature Creation: create 45 new features from 3 fields based on the knowledge of properties valuation
 
-+ Dimensionality Reduction:
++ Dimensionality Reduction:represent data with 6 features through PCA and normalized the result to prepare for the modeling
 
 + Fraud Model Algorithm: Establish two models for fraud score calculation
 
