@@ -24,4 +24,4 @@
   
   2) Autoencoder error which is the difference between the input and the output of the autoencoder vectors
 
-+ **Summarize Results** : combine the two unscale scores to get the final rank of records
++ **Summarize Results** : Assigned the fraud score for each property and further investigated 10 suspicious fraudulence.
